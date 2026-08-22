@@ -2,27 +2,27 @@
 
 Perkenalkan, nama saya **Muhammad Nafis**.
 
-Saya seorang **Software Developer** / **Web Developer** yang antusias dalam membangun aplikasi modern dan terus memperdalam keterampilan teknologi digital.
+Saya seorang **Mahasiswa** dan *Aspiring Web Developer* yang saat ini sedang berfokus mendalami **Front-End Web Development** dengan tujuan jangka panjang berkembang menjadi seorang **Full-Stack Developer**.
 
 ---
 
 ### 🚀 Tentang Saya
-* 💻 Sedang aktif mengembangkan aplikasi berbasis **Web & Backend** (Laravel, JavaScript/TypeScript, dsb.).
-* 📚 Aktif belajar dan meningkatkan kompetensi melalui program pelatihan teknologi dan sertifikasi di platform seperti [Dicoding](https://www.dicoding.com/).
-* 🎯 Tertarik pada arsitektur perangkat lunak, cloud infrastructure, dan pengembangan web modern.
+* 🎓 Sedang menempuh pendidikan tingkat sarjana dan aktif belajar pemrograman secara mandiri.
+* 🎨 Fokus saat ini: Membangun antarmuka web yang interaktif, responsif, dan ramah pengguna (*Front-End*).
+* 📚 Sedang aktif mengikuti kelas dan pelatihan teknologi di platform seperti [Dicoding](https://www.dicoding.com/) untuk memperkuat fondasi *web development*.
+* 🎯 Target: Memperdalam integrasi Front-End dengan Back-End untuk menghasilkan aplikasi *Full-Stack* yang utuh.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-* **Languages:** PHP, JavaScript, TypeScript, HTML/CSS
-* **Frameworks & Libs:** Laravel, React / Vue / Node.js
-* **Tools & Platforms:** Git, GitHub, Cloud Infrastructure, VS Code
+### 🛠️ Keahlian & Sedang Dipelajari
+* **Front-End:** HTML5, CSS3, JavaScript *(bisa tambahkan framework/library seperti React/Bootstrap/Tailwind jika mulai dipelajari)*
+* **Back-End (Eksplorasi/Dasar):** PHP / Node.js, Dasar REST API & Database
+* **Tools & Workflow:** Git, GitHub, VS Code, Browser DevTools
 
 ---
-
 ### 📬 Hubungi Saya
-* 💼 **LinkedIn:** [linkedin.com/in/username-kamu](https://www.linkedin.com/in/muhammadnafis23/)
-* 📧 **Email:** [email-kamu@example.com](mailto:muhammadnafis2709@gmail.com)
+* 💼 **LinkedIn:** [linkedin.com/in/muhammadnafis23](https://www.linkedin.com/in/muhammadnafis23/)
+* 📧 **Email:** [muhammadnafis2709@gmail.com](mailto:muhammadnafis2709@gmail.com)
 
 ---
 *Terbuka untuk kolaborasi proyek, diskusi tech stack, atau sekadar bertukar pengalaman di dunia development!*
