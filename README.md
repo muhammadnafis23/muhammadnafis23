@@ -1,36 +1,80 @@
-# Halo semua! 👋
+# Hi, I'm Muhammad Nafis 👋
 
-Perkenalkan, nama saya **Muhammad Nafis**.
+🎓 Informatics Engineering Student  
+💻 Aspiring Web Developer  
+🌱 Currently learning Front-End Development & React
 
-Saya seorang **Mahasiswa** dan *Aspiring Web Developer* yang saat ini sedang berfokus mendalami **Front-End Web Development** dengan tujuan jangka panjang berkembang menjadi seorang **Full-Stack Developer**.
+I'm an Informatics Engineering student with a growing interest in web development. 
+Currently, I'm focused on building a strong foundation in Front-End Development, 
+while gradually exploring Back-End technologies and the path toward becoming a 
+Full-Stack Developer.
+
+I enjoy learning by building things, solving problems, and turning ideas into 
+simple and functional web applications.
+
+---
+
+## 🚀 About Me
+
+- 🎓 Informatics Engineering student
+- 💻 Currently focused on **Front-End Web Development**
+- ⚛️ Learning and building projects with **JavaScript & React**
+- 🔧 Exploring **Back-End, REST APIs, and databases**
+- 📚 Actively learning through **Dicoding** and personal projects
+- 🌱 Always trying to improve my programming fundamentals
+- 🎯 Long-term goal: becoming a **Full-Stack Developer**
+- 🤝 Open to collaboration, learning, and connecting with fellow developers
 
 ---
 
-### 🚀 Tentang Saya
-* 🎓 Sedang menempuh pendidikan tingkat sarjana dan aktif belajar pemrograman secara mandiri.
-* 🎨 Fokus saat ini: Membangun antarmuka web yang interaktif, responsif, dan ramah pengguna (*Front-End*).
-* 📚 Sedang aktif mengikuti kelas dan pelatihan teknologi di platform seperti [Dicoding](https://www.dicoding.com/) untuk memperkuat fondasi *web development*.
-* 🎯 Target: Memperdalam integrasi Front-End dengan Back-End untuk menghasilkan aplikasi *Full-Stack* yang utuh.
+## 🛠️ Tech Stack
 
----
-
-### 🛠️ Keahlian & Sedang Dipelajari
-* **Front-End:** HTML5, CSS3, JavaScript *(bisa tambahkan framework/library seperti React/Bootstrap/Tailwind jika mulai dipelajari)*
-* **Back-End (Eksplorasi/Dasar):** PHP / Node.js, Dasar REST API & Database
-* **Tools & Workflow:** Git, GitHub, VS Code, Browser DevTools
-
----
-### 📬 Hubungi Saya
-* 💼 **LinkedIn:** [linkedin.com/in/muhammadnafis23](https://www.linkedin.com/in/muhammadnafis23/)
-* 📧 **Email:** [muhammadnafis2709@gmail.com](mailto:muhammadnafis2709@gmail.com)
-
----
-*Terbuka untuk kolaborasi proyek, diskusi tech stack, atau sekadar bertukar pengalaman di dunia development!*
-
-### GitHub Statistic
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
-</a>
+### Front-End
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Currently Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 📝 Personal Notes App
+A React-based note-taking application built as part of my learning journey with Dicoding.
+
+**Tech:** React · JavaScript · CSS
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadnafis23&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadnafis23&layout=compact&theme=transparent&hide_border=true" height="170" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/muhammadnafis23/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:muhammadnafis2709@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> Learning, building, and improving — one project at a time. 🌱
