@@ -4,24 +4,24 @@
 💻 Aspiring Web Developer  
 🌱 Currently learning Front-End Development & React
 
-I'm an Informatics Engineering student with a growing interest in web development. 
-Currently, I'm focused on building a strong foundation in Front-End Development, 
-while gradually exploring Back-End technologies and the path toward becoming a 
-Full-Stack Developer.
+I'm an Informatics Engineering student who is currently exploring the world of web development. 
+My main focus right now is strengthening my fundamentals in **HTML, CSS, JavaScript, and React** while learning how to build web applications through hands-on projects.
 
-I enjoy learning by building things, solving problems, and turning ideas into 
-simple and functional web applications.
+I've also had some exposure to **PHP, Laravel, and databases** through university projects, and I'm gradually working toward understanding Back-End development more deeply.
+
+I enjoy learning by building, experimenting with new technologies, and improving my understanding one project at a time.
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Informatics Engineering student
-- 💻 Currently focused on **Front-End Web Development**
-- ⚛️ Learning and building projects with **JavaScript & React**
-- 🔧 Exploring **Back-End, REST APIs, and databases**
+- 💻 Currently focusing on **Front-End Web Development**
+- ⚛️ Learning **JavaScript & React**
+- 🧩 Building projects to strengthen my programming fundamentals
 - 📚 Actively learning through **Dicoding** and personal projects
-- 🌱 Always trying to improve my programming fundamentals
+- 🔎 Previously explored **PHP & Laravel** through university projects
+- 🌱 Gradually exploring **Back-End development**
 - 🎯 Long-term goal: becoming a **Full-Stack Developer**
 - 🤝 Open to collaboration, learning, and connecting with fellow developers
 
@@ -29,19 +29,22 @@ simple and functional web applications.
 
 ## 🛠️ Tech Stack
 
-### Front-End
+### Currently Learning
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### Tools
+### Familiar With
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
 </p>
 
-### Currently Exploring
+### Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
@@ -49,6 +52,7 @@ simple and functional web applications.
 ## 📌 Featured Projects
 
 ### 📝 Personal Notes App
+
 A React-based note-taking application built as part of my learning journey with Dicoding.
 
 **Tech:** React · JavaScript · CSS
@@ -57,9 +61,15 @@ A React-based note-taking application built as part of my learning journey with 
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadnafis23&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadnafis23&layout=compact&theme=transparent&hide_border=true" height="170" />
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=muhammadnafis23&show_icons=true&theme=transparent&card_width=450"
+    height="180"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=muhammadnafis23&layout=compact&theme=transparent&card_width=450"
+    height="180"
+  />
 </p>
 
 ---
